@@ -1,0 +1,1001 @@
+customer_id,has_credit_card,has_checking_account,has_debit_account,state,city,gender,age,education_level,visits_last_3_months,visits_last_12_months
+1,false,false,false,Georgia,Marietta,Female,21,high_school,9,61
+2,false,true,false,New York,New York City,Male,28,high_school,3,60
+3,false,true,false,Illinois,Chicago,Male,24,phd,10,73
+4,false,false,false,Texas,Fort Worth,Female,29,high_school,0,41
+5,true,true,true,Ohio,Hamilton,Female,30,bachelors,6,99
+6,false,true,true,Nevada,Reno,Female,25,bachelors,0,100
+7,false,false,true,Texas,Houston,Male,29,bachelors,10,81
+8,true,false,true,Arkansas,Hot Springs National Park,Male,27,high_school,0,51
+9,true,false,true,California,Long Beach,Male,22,bachelors,8,90
+10,false,true,true,Virginia,Sterling,Male,21,phd,8,72
+11,false,false,false,Florida,Naples,Female,24,high_school,7,48
+12,true,false,false,New Mexico,Santa Fe,Female,24,high_school,10,90
+13,false,true,true,Nevada,Las Vegas,Male,28,phd,8,61
+14,true,false,true,Massachusetts,Newton,Female,29,bachelors,4,49
+15,false,false,true,Washington,Spokane,Female,22,high_school,8,42
+16,true,false,false,California,San Francisco,Female,30,masters,6,75
+17,false,true,true,Indiana,Fort Wayne,Male,23,phd,2,76
+18,true,true,true,Nevada,Las Vegas,Female,29,masters,3,66
+19,false,true,true,Virginia,Arlington,Male,23,high_school,5,48
+20,false,true,false,Oklahoma,Tulsa,Male,24,masters,9,64
+21,true,false,true,Indiana,Terre Haute,Female,23,bachelors,3,75
+22,false,true,true,New York,New York City,Female,19,phd,8,54
+23,false,true,false,Pennsylvania,Johnstown,Female,20,masters,5,61
+24,false,true,true,New York,Buffalo,Female,21,masters,3,73
+25,false,true,false,New Mexico,Santa Fe,Female,25,phd,10,68
+26,true,false,true,California,North Hollywood,Male,30,masters,5,46
+27,true,true,false,Missouri,Kansas City,Male,20,masters,10,80
+28,true,true,false,Oklahoma,Oklahoma City,Male,30,bachelors,7,54
+29,true,true,true,Florida,Tampa,Male,20,bachelors,0,57
+30,false,false,false,Georgia,Atlanta,Male,21,phd,8,43
+31,true,false,false,California,Fresno,Male,18,high_school,10,43
+32,false,false,true,Tennessee,Nashville,Male,28,masters,5,75
+33,true,false,true,Texas,Dallas,Male,21,masters,0,98
+34,false,false,true,Utah,Salt Lake City,Female,25,high_school,4,58
+35,true,false,false,California,Irvine,Male,24,bachelors,8,40
+36,true,true,true,District of Columbia,Washington,Male,18,high_school,8,57
+37,false,false,false,Colorado,Pueblo,Male,26,high_school,1,85
+38,false,true,false,Texas,El Paso,Male,27,phd,0,50
+39,true,true,true,Florida,Naples,Female,24,masters,6,72
+40,false,false,true,Texas,Bryan,Female,18,masters,4,65
+41,true,true,true,New Jersey,Paterson,Male,18,phd,7,61
+42,true,true,true,Washington,Tacoma,Female,19,bachelors,1,80
+43,true,false,true,Alaska,Fairbanks,Female,26,high_school,8,59
+44,true,false,false,District of Columbia,Washington,Male,28,bachelors,5,45
+45,false,true,true,Indiana,Terre Haute,Female,20,phd,8,89
+46,true,true,true,California,Anaheim,Female,22,bachelors,1,71
+47,true,false,true,Florida,Miami,Female,29,masters,6,97
+48,false,true,false,Virginia,Arlington,Male,22,high_school,10,62
+49,true,true,true,California,San Francisco,Female,22,phd,9,93
+50,true,false,false,Pennsylvania,Harrisburg,Female,19,masters,0,40
+51,true,false,false,Florida,Clearwater,Female,19,bachelors,6,53
+52,false,true,true,Texas,Houston,Male,20,phd,4,78
+53,false,true,false,New York,New York City,Female,23,high_school,2,90
+54,true,true,true,Virginia,Sterling,Male,19,phd,2,95
+55,true,true,true,Illinois,Bloomington,Female,23,masters,6,71
+56,false,true,true,West Virginia,Morgantown,Male,21,bachelors,9,47
+57,false,true,true,District of Columbia,Washington,Male,22,masters,0,70
+58,true,false,true,Texas,El Paso,Male,30,masters,1,71
+59,true,true,false,New Jersey,Newark,Female,29,bachelors,1,81
+60,false,false,false,Tennessee,Memphis,Male,26,bachelors,1,83
+61,true,true,false,Virginia,Vienna,Male,20,high_school,8,62
+62,true,true,true,Texas,El Paso,Male,26,high_school,5,100
+63,true,false,false,Minnesota,Saint Paul,Male,28,bachelors,1,40
+64,false,true,false,Minnesota,Duluth,Male,26,bachelors,4,75
+65,false,false,false,Virginia,Arlington,Male,29,bachelors,1,51
+66,true,true,false,Indiana,Fort Wayne,Female,25,high_school,1,95
+67,true,true,true,Idaho,Boise,Female,20,masters,8,49
+68,true,false,true,Nebraska,Lincoln,Male,18,high_school,1,71
+69,true,false,true,California,San Luis Obispo,Male,21,phd,3,51
+70,true,true,true,California,Fresno,Male,26,high_school,6,75
+71,true,false,false,Georgia,Atlanta,Female,19,phd,7,89
+72,false,false,false,Louisiana,Baton Rouge,Male,19,phd,2,86
+73,false,true,true,Arizona,Tucson,Female,23,masters,9,94
+74,false,false,true,Texas,El Paso,Male,24,bachelors,9,63
+75,true,false,false,Ohio,Akron,Male,30,high_school,6,45
+76,false,true,false,Minnesota,Saint Paul,Male,25,bachelors,8,43
+77,false,true,false,West Virginia,Huntington,Female,18,masters,1,68
+78,false,true,false,Florida,Jacksonville,Male,18,masters,1,82
+79,false,false,true,California,Inglewood,Female,21,masters,10,62
+80,false,true,true,Virginia,Richmond,Male,24,high_school,7,64
+81,false,false,true,Tennessee,Memphis,Male,18,bachelors,9,43
+82,false,false,true,District of Columbia,Washington,Female,25,high_school,1,41
+83,false,true,false,Kentucky,Louisville,Male,29,high_school,9,63
+84,false,false,false,Indiana,Indianapolis,Male,26,high_school,10,68
+85,true,true,true,New York,Albany,Female,28,bachelors,2,98
+86,false,true,false,California,Sacramento,Female,26,bachelors,3,83
+87,false,true,true,Kansas,Topeka,Male,26,masters,5,50
+88,false,true,false,Pennsylvania,Pittsburgh,Female,22,bachelors,10,52
+89,true,false,false,Tennessee,Murfreesboro,Female,30,masters,6,71
+90,false,true,false,Louisiana,New Orleans,Female,25,high_school,9,56
+91,true,true,false,New York,Jamaica,Female,19,high_school,6,84
+92,false,false,false,California,Oakland,Male,23,high_school,1,57
+93,true,false,true,Virginia,Richmond,Male,24,masters,0,91
+94,true,false,false,Oklahoma,Oklahoma City,Female,30,masters,7,85
+95,false,false,false,Illinois,Springfield,Male,30,phd,2,45
+96,true,false,false,California,Burbank,Male,23,bachelors,10,56
+97,false,true,true,Kansas,Kansas City,Male,19,bachelors,10,75
+98,true,false,false,Texas,Houston,Female,22,masters,8,43
+99,true,false,true,Texas,College Station,Female,20,masters,3,46
+100,true,false,false,Colorado,Colorado Springs,Male,22,high_school,10,67
+101,false,true,false,Illinois,Chicago,Female,28,masters,1,62
+102,false,true,false,Texas,El Paso,Female,26,masters,10,86
+103,false,false,false,Indiana,Muncie,Female,18,bachelors,1,83
+104,true,false,true,California,Oakland,Female,23,phd,2,82
+105,false,true,false,District of Columbia,Washington,Male,20,bachelors,2,82
+106,true,false,false,Texas,Tyler,Female,24,bachelors,9,52
+107,false,true,true,Iowa,Davenport,Female,24,phd,7,69
+108,true,true,false,Florida,Fort Myers,Male,23,masters,6,50
+109,true,true,false,North Carolina,Winston Salem,Female,30,high_school,5,99
+110,true,false,false,Kansas,Shawnee Mission,Male,26,high_school,0,60
+111,true,true,false,Arkansas,Hot Springs National Park,Male,26,masters,5,41
+112,false,true,true,Florida,Miami,Female,26,bachelors,3,61
+113,false,false,false,Pennsylvania,Philadelphia,Female,24,bachelors,9,59
+114,true,false,false,Virginia,Lynchburg,Female,20,masters,6,42
+115,true,false,false,Delaware,Wilmington,Male,20,high_school,6,67
+116,true,true,false,Georgia,Atlanta,Male,19,bachelors,6,70
+117,false,true,false,Texas,Dallas,Male,30,masters,8,76
+118,true,true,false,California,Lancaster,Male,20,bachelors,3,79
+119,false,true,true,Texas,San Antonio,Female,29,phd,0,85
+120,true,false,true,Missouri,Saint Joseph,Male,26,masters,4,60
+121,true,false,true,Illinois,Springfield,Male,22,masters,3,53
+122,false,true,false,California,San Francisco,Female,23,bachelors,4,92
+123,true,true,true,Colorado,Denver,Female,24,phd,8,48
+124,false,true,false,California,Inglewood,Male,27,masters,4,40
+125,false,true,true,Hawaii,Honolulu,Female,26,phd,5,78
+126,false,false,false,Texas,Dallas,Female,18,phd,10,75
+127,false,false,false,Virginia,Reston,Male,24,masters,9,95
+128,true,true,false,Arkansas,Little Rock,Male,28,phd,8,81
+129,true,true,false,District of Columbia,Washington,Female,22,high_school,8,46
+130,true,true,false,Oklahoma,Oklahoma City,Male,21,phd,5,59
+131,true,false,false,New York,Hicksville,Female,30,phd,0,50
+132,false,false,false,California,Ventura,Male,19,masters,0,76
+133,false,true,true,Ohio,Springfield,Female,19,high_school,10,61
+134,true,true,false,New York,New York City,Female,26,phd,0,66
+135,false,true,true,Texas,Houston,Female,26,masters,6,77
+136,false,true,false,Virginia,Norfolk,Male,29,bachelors,9,63
+137,true,false,false,New Mexico,Albuquerque,Male,26,bachelors,2,84
+138,true,false,true,North Dakota,Fargo,Female,22,high_school,4,93
+139,true,true,true,Nevada,North Las Vegas,Female,20,phd,5,98
+140,true,true,false,Texas,El Paso,Female,28,high_school,10,100
+141,true,false,true,Oklahoma,Oklahoma City,Male,21,bachelors,6,77
+142,true,true,false,California,Los Angeles,Male,28,phd,5,40
+143,false,true,false,Louisiana,Shreveport,Female,29,high_school,3,65
+144,false,false,false,Minnesota,Minneapolis,Male,24,phd,5,93
+145,true,true,true,Texas,Mesquite,Female,22,bachelors,10,100
+146,true,false,true,Texas,Fort Worth,Male,27,masters,5,99
+147,true,false,true,Kansas,Shawnee Mission,Female,18,bachelors,7,41
+148,false,true,false,Minnesota,Rochester,Male,25,masters,5,74
+149,true,false,false,California,San Diego,Female,19,bachelors,9,69
+150,true,false,true,Alabama,Montgomery,Female,19,bachelors,4,43
+151,false,false,true,California,Sacramento,Female,25,phd,10,96
+152,false,false,false,California,Fresno,Female,28,phd,4,79
+153,false,true,true,California,San Francisco,Female,28,high_school,10,89
+154,false,false,false,Texas,Houston,Female,28,high_school,4,48
+155,false,true,false,Wisconsin,Madison,Male,30,phd,10,71
+156,true,true,true,Texas,Fort Worth,Female,26,high_school,8,73
+157,false,false,false,Massachusetts,Brockton,Male,23,bachelors,1,44
+158,true,false,false,Wisconsin,Milwaukee,Male,24,masters,6,60
+159,true,false,false,Texas,Corpus Christi,Female,24,masters,5,95
+160,true,true,true,California,Van Nuys,Female,27,bachelors,4,93
+161,false,true,true,Washington,Seattle,Male,23,phd,8,49
+162,true,true,false,Louisiana,Shreveport,Male,25,masters,8,65
+163,true,false,false,Louisiana,New Orleans,Female,28,high_school,9,66
+164,true,true,false,California,San Jose,Female,25,phd,3,63
+165,false,true,false,Texas,Amarillo,Male,21,masters,4,48
+166,false,true,true,Georgia,Atlanta,Male,28,phd,8,75
+167,false,false,true,New York,Bronx,Female,27,masters,2,67
+168,true,true,true,District of Columbia,Washington,Female,27,bachelors,9,81
+169,true,false,true,Indiana,Terre Haute,Female,25,bachelors,7,77
+170,false,false,true,Texas,San Antonio,Male,26,masters,2,83
+171,false,false,true,California,South Lake Tahoe,Female,27,phd,4,87
+172,true,false,true,New Jersey,Camden,Female,29,phd,6,96
+173,false,true,false,Kansas,Topeka,Male,20,bachelors,9,92
+174,false,true,true,North Carolina,Raleigh,Male,25,high_school,7,42
+175,true,true,false,Illinois,Chicago,Male,22,masters,3,44
+176,false,true,true,Rhode Island,Providence,Female,19,bachelors,1,78
+177,true,true,true,Indiana,South Bend,Female,27,phd,5,96
+178,true,true,false,Missouri,Kansas City,Female,25,phd,5,93
+179,false,true,true,Kansas,Wichita,Male,23,high_school,7,57
+180,false,true,true,Minnesota,Minneapolis,Male,23,masters,3,53
+181,true,true,true,California,Torrance,Male,20,masters,10,82
+182,true,false,true,Georgia,Atlanta,Male,26,bachelors,6,43
+183,false,false,false,Tennessee,Chattanooga,Female,25,masters,0,55
+184,false,false,false,Massachusetts,Worcester,Male,26,masters,2,89
+185,true,false,false,Michigan,Grand Rapids,Female,20,phd,8,47
+186,true,false,true,Arizona,Tempe,Female,26,masters,8,49
+187,true,false,false,Florida,Boynton Beach,Male,27,bachelors,2,43
+188,true,false,true,Texas,Houston,Male,30,high_school,3,93
+189,false,true,false,Arizona,Phoenix,Male,20,phd,8,100
+190,false,false,false,Oregon,Portland,Male,18,masters,3,57
+191,false,true,true,Utah,Sandy,Female,28,masters,9,91
+192,true,true,false,California,Sacramento,Female,22,masters,5,75
+193,true,true,false,Wisconsin,Appleton,Male,30,bachelors,5,92
+194,true,true,false,Arizona,Phoenix,Male,26,bachelors,7,76
+195,true,false,false,Illinois,Springfield,Female,19,phd,10,51
+196,true,true,true,Tennessee,Jackson,Male,29,high_school,6,80
+197,false,true,false,Virginia,Alexandria,Female,30,masters,3,54
+198,false,false,false,California,San Jose,Male,29,masters,5,75
+199,false,true,true,Oklahoma,Edmond,Male,19,phd,8,79
+200,true,true,true,Mississippi,Gulfport,Female,18,bachelors,3,80
+201,true,true,true,Illinois,Chicago,Female,26,phd,5,51
+202,true,true,true,Pennsylvania,Wilkes Barre,Female,22,high_school,8,58
+203,false,false,true,Colorado,Pueblo,Male,30,bachelors,6,56
+204,true,true,true,California,Ventura,Female,20,masters,6,51
+205,false,true,true,New York,Flushing,Female,29,high_school,7,80
+206,true,false,false,Alabama,Birmingham,Female,23,masters,5,68
+207,true,true,true,Ohio,Columbus,Female,22,masters,10,57
+208,true,false,true,Florida,Miami,Male,30,phd,2,40
+209,true,true,false,Texas,Fort Worth,Male,24,high_school,0,49
+210,true,true,true,Illinois,Chicago,Male,27,bachelors,8,87
+211,false,true,false,Kansas,Topeka,Male,28,high_school,5,59
+212,true,false,false,Pennsylvania,Philadelphia,Female,25,phd,7,40
+213,true,true,true,Texas,San Antonio,Female,30,phd,8,72
+214,false,false,true,District of Columbia,Washington,Female,19,masters,1,59
+215,false,true,false,Texas,Houston,Male,21,masters,8,58
+216,false,true,false,Texas,Longview,Male,25,phd,5,94
+217,false,true,true,Washington,Tacoma,Female,27,bachelors,8,75
+218,false,true,false,California,Los Angeles,Female,26,high_school,6,61
+219,false,true,true,North Carolina,Greensboro,Male,20,phd,4,87
+220,false,false,false,Texas,Corpus Christi,Male,22,bachelors,9,51
+221,false,false,false,Florida,Boca Raton,Male,25,masters,7,49
+222,false,true,false,Georgia,Atlanta,Male,23,bachelors,0,92
+223,false,false,false,Connecticut,Stamford,Female,28,high_school,10,94
+224,true,false,true,Louisiana,New Orleans,Male,20,masters,4,40
+225,true,false,true,Virginia,Chesapeake,Female,18,bachelors,8,72
+226,false,true,true,New York,Buffalo,Female,21,bachelors,4,99
+227,false,false,false,South Carolina,Columbia,Male,19,high_school,7,96
+228,false,false,false,Florida,Boca Raton,Male,22,high_school,10,41
+229,false,true,false,Florida,Miami,Male,20,high_school,6,92
+230,true,true,true,Pennsylvania,Philadelphia,Male,19,high_school,3,47
+231,false,true,false,Michigan,Flint,Female,28,phd,5,74
+232,false,false,true,Connecticut,New Haven,Male,24,masters,0,84
+233,true,false,true,New York,New York City,Male,30,bachelors,8,79
+234,false,false,false,Virginia,Alexandria,Male,26,high_school,4,55
+235,true,false,false,New York,Bronx,Female,21,phd,2,80
+236,false,false,false,Connecticut,West Hartford,Female,29,high_school,0,85
+237,true,true,true,South Carolina,Columbia,Male,19,high_school,8,100
+238,false,false,true,Connecticut,New Haven,Male,21,bachelors,3,52
+239,false,false,false,Colorado,Colorado Springs,Female,21,high_school,6,46
+240,false,true,true,Alaska,Fairbanks,Male,18,high_school,3,92
+241,false,false,true,Arizona,Chandler,Male,25,phd,10,55
+242,true,false,true,Colorado,Denver,Male,19,masters,8,79
+243,false,false,true,Florida,Boynton Beach,Male,30,phd,10,69
+244,false,false,false,Colorado,Arvada,Male,22,bachelors,4,48
+245,false,true,false,Louisiana,New Orleans,Male,24,bachelors,5,85
+246,false,true,false,New Jersey,Newark,Female,26,phd,3,60
+247,true,false,false,Tennessee,Nashville,Male,30,masters,5,44
+248,true,false,false,Virginia,Lynchburg,Female,22,masters,7,77
+249,true,false,true,North Carolina,Greensboro,Female,20,masters,6,97
+250,true,false,false,Iowa,Des Moines,Female,26,phd,4,47
+251,false,true,true,South Carolina,Columbia,Male,28,high_school,3,86
+252,false,false,true,Kentucky,Louisville,Male,24,masters,1,46
+253,false,false,false,Virginia,Richmond,Male,28,phd,5,55
+254,false,false,false,Georgia,Duluth,Female,28,bachelors,7,66
+255,false,true,true,Georgia,Marietta,Male,30,phd,1,40
+256,true,false,true,Texas,Spring,Female,23,bachelors,5,75
+257,false,true,true,California,Anaheim,Male,28,high_school,4,72
+258,false,true,true,Texas,Fort Worth,Male,24,bachelors,3,90
+259,true,false,false,Maryland,Silver Spring,Male,18,masters,5,53
+260,false,false,true,Ohio,Columbus,Female,20,high_school,7,98
+261,false,true,true,Virginia,Richmond,Female,28,masters,10,100
+262,false,false,true,Texas,El Paso,Male,22,high_school,4,59
+263,false,false,true,Pennsylvania,Wilkes Barre,Male,25,bachelors,8,61
+264,true,true,true,Michigan,Midland,Male,27,masters,0,62
+265,false,true,false,Florida,Tallahassee,Female,20,bachelors,3,65
+266,false,true,true,Maine,Portland,Female,23,masters,5,53
+267,false,false,true,Ohio,Columbus,Female,19,masters,2,97
+268,false,true,true,Pennsylvania,Philadelphia,Male,25,high_school,2,89
+269,false,true,true,North Carolina,Greensboro,Male,24,bachelors,9,98
+270,false,false,false,California,Simi Valley,Male,24,masters,10,85
+271,true,true,true,Kentucky,Louisville,Male,23,phd,8,86
+272,true,true,false,Washington,Spokane,Male,25,bachelors,7,79
+273,false,false,true,California,San Luis Obispo,Male,28,high_school,7,78
+274,false,false,false,California,Palo Alto,Male,23,high_school,5,52
+275,true,false,true,Illinois,Springfield,Male,30,bachelors,6,81
+276,true,true,true,Texas,Odessa,Male,27,high_school,3,90
+277,true,true,false,Pennsylvania,Erie,Male,27,bachelors,7,43
+278,true,true,true,Alabama,Mobile,Female,24,high_school,7,40
+279,false,false,true,Arkansas,Little Rock,Male,26,masters,10,42
+280,true,false,false,Georgia,Atlanta,Female,30,masters,0,83
+281,true,false,true,Illinois,Chicago,Female,25,masters,2,98
+282,false,false,true,Utah,Ogden,Female,22,high_school,2,96
+283,true,false,false,Pennsylvania,Erie,Female,29,phd,6,78
+284,true,true,true,Texas,Dallas,Male,25,masters,0,68
+285,false,true,true,Tennessee,Nashville,Female,18,phd,3,93
+286,true,false,false,California,Sacramento,Male,26,phd,3,62
+287,false,true,true,Pennsylvania,Philadelphia,Male,26,high_school,1,73
+288,false,false,true,Colorado,Colorado Springs,Female,30,masters,10,55
+289,true,false,true,District of Columbia,Washington,Male,19,masters,1,40
+290,false,true,false,Nebraska,Lincoln,Female,25,phd,1,87
+291,false,false,true,Pennsylvania,Harrisburg,Male,24,masters,5,48
+292,false,true,false,Texas,Dallas,Female,21,masters,3,87
+293,true,true,false,California,Long Beach,Female,22,phd,5,83
+294,true,true,false,Tennessee,Memphis,Male,29,high_school,5,47
+295,false,true,true,Kansas,Shawnee Mission,Female,22,phd,0,97
+296,false,false,true,Georgia,Atlanta,Female,21,masters,10,84
+297,true,true,false,Louisiana,Baton Rouge,Female,27,phd,8,83
+298,false,true,true,Colorado,Colorado Springs,Female,30,masters,3,87
+299,false,true,true,Connecticut,Waterbury,Female,18,high_school,2,73
+300,false,false,false,California,San Francisco,Female,18,phd,9,79
+301,true,true,false,Louisiana,Metairie,Male,29,bachelors,9,53
+302,false,true,true,Pennsylvania,Pittsburgh,Female,19,phd,2,49
+303,true,false,true,Texas,Corpus Christi,Male,25,high_school,1,47
+304,true,true,true,Ohio,Dayton,Female,21,high_school,8,74
+305,true,false,false,Ohio,Mansfield,Male,18,masters,3,43
+306,false,false,false,District of Columbia,Washington,Male,27,bachelors,3,63
+307,false,true,false,Alaska,Anchorage,Female,26,phd,3,81
+308,false,false,false,Pennsylvania,Pittsburgh,Female,18,masters,0,74
+309,false,false,true,Alabama,Birmingham,Female,23,bachelors,4,84
+310,false,false,true,New York,Brooklyn,Male,20,masters,7,61
+311,false,false,true,Oklahoma,Oklahoma City,Male,29,phd,2,71
+312,false,false,false,Illinois,Chicago,Female,21,phd,6,55
+313,true,false,true,Tennessee,Knoxville,Male,27,high_school,9,46
+314,false,false,true,New York,Schenectady,Male,22,bachelors,5,63
+315,true,false,false,Indiana,Indianapolis,Male,26,masters,2,78
+316,true,false,true,New Mexico,Albuquerque,Female,29,masters,9,68
+317,false,false,false,California,Sacramento,Male,28,masters,2,74
+318,true,true,false,Virginia,Richmond,Male,20,bachelors,10,61
+319,false,false,true,Oklahoma,Oklahoma City,Male,22,bachelors,3,88
+320,false,false,true,West Virginia,Charleston,Male,26,bachelors,10,78
+321,true,false,true,Massachusetts,Springfield,Female,28,bachelors,4,78
+322,true,true,true,Arizona,Phoenix,Female,26,masters,4,52
+323,true,false,true,New York,Albany,Female,26,phd,9,77
+324,true,true,false,Indiana,Anderson,Female,22,bachelors,9,91
+325,true,false,true,Kentucky,Lexington,Male,18,bachelors,0,64
+326,true,false,false,Virginia,Virginia Beach,Male,30,bachelors,3,98
+327,true,false,false,New York,New York City,Male,30,masters,10,95
+328,true,false,false,California,San Francisco,Female,20,high_school,4,46
+329,false,false,true,Iowa,Des Moines,Female,21,phd,1,71
+330,false,true,true,California,Pomona,Male,23,masters,10,77
+331,false,true,true,Florida,Fort Lauderdale,Male,22,phd,9,87
+332,true,true,false,California,Oakland,Male,23,phd,10,97
+333,true,false,false,Texas,College Station,Female,21,masters,1,62
+334,false,true,false,Illinois,Evanston,Male,28,masters,5,44
+335,true,true,false,New York,Buffalo,Male,24,high_school,1,86
+336,true,false,true,Alaska,Anchorage,Male,26,bachelors,0,78
+337,true,false,false,Connecticut,Hartford,Female,30,phd,9,51
+338,false,false,true,Florida,Seminole,Male,20,high_school,6,61
+339,false,true,false,Wisconsin,Milwaukee,Male,24,high_school,6,95
+340,true,true,false,Arizona,Mesa,Female,26,bachelors,7,90
+341,false,true,false,Colorado,Colorado Springs,Female,22,bachelors,9,87
+342,false,true,true,South Dakota,Sioux Falls,Female,26,phd,3,72
+343,true,true,true,Florida,Miami,Male,30,bachelors,1,89
+344,true,true,false,Massachusetts,Boston,Male,22,bachelors,10,68
+345,true,true,true,California,Sacramento,Female,24,bachelors,6,88
+346,false,false,false,Nevada,Las Vegas,Male,22,high_school,3,65
+347,true,true,true,New York,Brooklyn,Male,24,high_school,5,84
+348,false,false,false,Tennessee,Memphis,Female,25,masters,1,79
+349,true,false,false,Alabama,Birmingham,Female,30,bachelors,0,44
+350,true,true,true,Alabama,Mobile,Male,25,high_school,2,77
+351,true,true,true,Virginia,Norfolk,Female,23,masters,4,83
+352,true,false,false,New York,Jamaica,Male,20,phd,4,51
+353,false,true,false,Nevada,Las Vegas,Female,18,high_school,2,77
+354,false,true,true,Virginia,Lynchburg,Male,24,high_school,2,92
+355,false,true,false,North Carolina,Charlotte,Male,21,masters,4,55
+356,false,false,true,Kansas,Topeka,Female,26,high_school,4,77
+357,false,false,true,Wisconsin,Milwaukee,Male,28,bachelors,5,63
+358,false,false,true,Nevada,Carson City,Female,30,masters,9,55
+359,false,true,false,Iowa,Cedar Rapids,Male,29,high_school,9,76
+360,false,true,false,Pennsylvania,Philadelphia,Male,30,masters,5,98
+361,true,false,true,Michigan,Farmington,Male,26,masters,4,83
+362,true,true,false,Colorado,Greeley,Female,21,phd,6,94
+363,true,false,true,California,Los Angeles,Male,22,phd,9,100
+364,false,true,true,Pennsylvania,Philadelphia,Female,26,bachelors,7,63
+365,false,false,false,California,San Diego,Female,25,high_school,1,65
+366,false,true,false,District of Columbia,Washington,Male,24,high_school,4,83
+367,true,false,false,District of Columbia,Washington,Male,25,phd,4,41
+368,true,true,true,Arkansas,Little Rock,Female,21,masters,10,77
+369,true,true,true,Nebraska,Omaha,Male,24,bachelors,6,48
+370,true,true,false,California,Oakland,Female,21,bachelors,5,55
+371,true,true,false,Pennsylvania,Erie,Female,30,masters,5,66
+372,true,false,true,Montana,Billings,Female,19,high_school,9,75
+373,false,false,true,Washington,Olympia,Female,25,phd,3,69
+374,true,true,false,Nevada,North Las Vegas,Male,26,phd,6,63
+375,false,true,false,California,Los Angeles,Male,20,phd,5,69
+376,false,false,true,North Carolina,Charlotte,Male,29,phd,6,46
+377,false,false,true,Florida,Miami,Male,18,bachelors,4,48
+378,false,false,true,Wisconsin,Madison,Female,23,high_school,1,80
+379,false,true,false,Nebraska,Lincoln,Male,28,bachelors,3,42
+380,true,true,true,North Carolina,Charlotte,Female,22,bachelors,3,68
+381,false,false,true,Washington,Seattle,Male,28,masters,9,99
+382,true,true,true,Pennsylvania,Pittsburgh,Male,30,high_school,4,62
+383,true,false,true,Ohio,Canton,Female,21,high_school,7,79
+384,false,true,false,District of Columbia,Washington,Female,25,phd,1,81
+385,true,false,false,Washington,Tacoma,Female,26,high_school,2,52
+386,false,false,true,Texas,Dallas,Male,21,bachelors,5,45
+387,true,true,true,Indiana,Gary,Male,30,phd,5,88
+388,true,true,false,Illinois,Chicago,Female,25,masters,1,50
+389,true,true,false,Alabama,Birmingham,Male,19,phd,1,68
+390,true,false,true,District of Columbia,Washington,Female,22,masters,1,67
+391,false,false,false,Florida,Orlando,Male,22,masters,9,69
+392,false,false,true,Wisconsin,Madison,Male,18,masters,4,42
+393,false,true,true,Texas,Austin,Female,21,masters,2,57
+394,false,false,true,Oklahoma,Tulsa,Female,30,phd,2,48
+395,false,true,false,Alabama,Montgomery,Male,28,phd,3,75
+396,false,true,false,California,Glendale,Female,20,high_school,4,46
+397,true,false,false,Kansas,Shawnee Mission,Female,21,bachelors,0,80
+398,true,true,true,New York,White Plains,Female,20,phd,0,80
+399,true,false,false,New York,New York City,Female,20,high_school,10,68
+400,false,true,false,California,Fresno,Female,19,masters,9,55
+401,false,false,true,North Carolina,Raleigh,Male,21,high_school,1,100
+402,true,true,true,Washington,Vancouver,Female,22,bachelors,5,69
+403,false,true,true,Texas,Midland,Male,23,masters,0,77
+404,true,false,false,Kentucky,Lexington,Female,19,phd,3,56
+405,false,true,true,Ohio,Dayton,Female,20,high_school,7,74
+406,false,false,false,California,Hayward,Male,19,high_school,6,74
+407,true,true,false,Kansas,Shawnee Mission,Female,22,masters,3,50
+408,false,false,true,Massachusetts,Boston,Male,24,masters,5,94
+409,false,false,false,California,Santa Cruz,Male,20,phd,0,81
+410,false,false,false,Texas,El Paso,Male,22,bachelors,4,40
+411,false,true,false,Pennsylvania,Harrisburg,Female,24,phd,1,91
+412,true,false,false,Illinois,Springfield,Male,24,high_school,8,43
+413,false,true,false,California,Los Angeles,Male,20,phd,1,48
+414,false,false,true,Florida,Hollywood,Female,22,masters,2,71
+415,true,true,false,Florida,Bonita Springs,Male,23,phd,1,76
+416,false,false,true,Georgia,Atlanta,Female,18,masters,6,98
+417,false,true,true,Connecticut,Danbury,Male,30,phd,8,65
+418,true,true,false,District of Columbia,Washington,Male,25,masters,5,47
+419,true,false,false,Michigan,Flint,Female,30,high_school,3,57
+420,false,false,false,District of Columbia,Washington,Male,20,bachelors,6,74
+421,false,true,false,Arkansas,Little Rock,Male,27,masters,3,92
+422,true,true,true,Alabama,Huntsville,Male,19,high_school,5,42
+423,true,false,false,Oklahoma,Tulsa,Female,21,bachelors,9,78
+424,true,true,false,California,Los Angeles,Male,24,high_school,1,98
+425,true,true,false,California,Riverside,Male,26,bachelors,0,46
+426,true,true,false,Texas,Texarkana,Male,27,bachelors,3,88
+427,false,false,true,South Carolina,Charleston,Male,21,masters,4,59
+428,false,false,true,California,San Diego,Male,24,high_school,7,40
+429,true,false,true,New York,Bronx,Female,30,high_school,1,44
+430,false,true,true,Hawaii,Honolulu,Female,30,bachelors,6,66
+431,true,false,true,New York,New York City,Female,27,bachelors,7,45
+432,false,false,false,Indiana,Fort Wayne,Female,27,masters,9,62
+433,true,true,true,Texas,Austin,Female,26,high_school,8,54
+434,false,true,true,Florida,Fort Myers,Female,25,high_school,5,93
+435,true,false,false,Florida,Sarasota,Male,22,masters,2,56
+436,true,true,true,California,Irvine,Male,23,high_school,4,91
+437,true,false,true,Texas,Dallas,Male,22,bachelors,6,62
+438,true,true,true,Virginia,Richmond,Female,26,phd,3,89
+439,false,true,true,California,Los Angeles,Female,30,high_school,9,56
+440,false,false,false,California,Berkeley,Female,26,bachelors,7,86
+441,false,false,true,Texas,Houston,Female,24,phd,4,83
+442,true,true,true,Florida,Saint Petersburg,Male,22,high_school,8,75
+443,true,true,false,South Carolina,Charleston,Female,18,high_school,1,84
+444,true,false,false,Maryland,Bethesda,Male,29,phd,1,58
+445,false,false,false,New York,Brooklyn,Male,18,phd,3,56
+446,true,true,true,Florida,Jacksonville,Female,18,masters,8,48
+447,false,true,false,Texas,Houston,Male,27,phd,10,80
+448,true,true,true,California,Moreno Valley,Male,28,bachelors,6,54
+449,false,true,true,Ohio,Columbus,Male,30,masters,4,58
+450,true,false,true,Tennessee,Knoxville,Female,19,phd,6,59
+451,true,false,true,Louisiana,New Orleans,Male,29,masters,10,56
+452,false,true,true,Florida,Jacksonville,Female,26,bachelors,3,61
+453,true,false,true,Wisconsin,Madison,Male,27,masters,0,64
+454,false,false,true,Pennsylvania,Reading,Male,28,bachelors,5,90
+455,false,true,false,Colorado,Denver,Female,20,phd,1,67
+456,true,true,false,Hawaii,Honolulu,Female,21,phd,10,85
+457,false,false,true,Texas,El Paso,Male,26,bachelors,8,43
+458,true,true,true,Utah,Salt Lake City,Female,26,phd,8,49
+459,true,false,false,Alaska,Anchorage,Female,23,bachelors,0,89
+460,true,false,false,Texas,Houston,Female,18,bachelors,9,96
+461,false,true,true,New York,New York City,Male,22,high_school,2,47
+462,false,true,false,Idaho,Idaho Falls,Male,18,bachelors,6,89
+463,false,false,false,Washington,Vancouver,Male,25,phd,1,60
+464,false,false,true,Iowa,Waterloo,Male,18,bachelors,2,66
+465,true,false,true,Florida,Miami,Male,23,phd,7,78
+466,true,false,true,California,Sacramento,Male,26,masters,2,59
+467,false,false,false,North Carolina,Raleigh,Male,29,phd,4,46
+468,true,true,false,Illinois,Peoria,Male,24,bachelors,8,45
+469,true,true,true,Louisiana,Baton Rouge,Female,21,phd,5,61
+470,true,false,true,Arizona,Phoenix,Female,30,high_school,8,52
+471,false,false,false,Connecticut,Hartford,Female,19,bachelors,4,66
+472,false,false,false,Arizona,Glendale,Male,18,masters,1,64
+473,false,false,true,Georgia,Atlanta,Female,28,bachelors,10,98
+474,true,false,true,California,Lancaster,Female,24,high_school,0,77
+475,true,true,false,Illinois,Champaign,Male,27,bachelors,5,93
+476,true,false,true,Minnesota,Saint Cloud,Female,28,masters,6,85
+477,true,true,false,District of Columbia,Washington,Female,28,high_school,10,93
+478,true,false,true,Ohio,Toledo,Female,26,masters,4,86
+479,true,false,false,Virginia,Virginia Beach,Female,19,bachelors,2,90
+480,true,true,false,South Dakota,Sioux Falls,Female,20,phd,0,68
+481,false,false,false,District of Columbia,Washington,Male,22,masters,9,75
+482,false,false,true,California,Riverside,Female,26,phd,0,66
+483,false,false,false,Washington,Everett,Female,21,high_school,4,75
+484,false,true,false,Virginia,Arlington,Male,20,masters,1,80
+485,false,true,true,New York,Albany,Female,25,masters,1,72
+486,false,false,true,Illinois,Springfield,Male,20,bachelors,10,58
+487,false,false,false,Missouri,Kansas City,Female,28,phd,4,95
+488,false,true,false,Virginia,Virginia Beach,Female,24,high_school,8,55
+489,false,true,true,Iowa,Des Moines,Male,26,masters,6,83
+490,false,true,true,Oklahoma,Oklahoma City,Female,20,masters,4,53
+491,false,false,true,Minnesota,Maple Plain,Female,26,bachelors,9,44
+492,false,false,true,California,Burbank,Male,22,high_school,10,65
+493,false,false,false,Missouri,Saint Louis,Male,25,masters,0,74
+494,false,true,true,Texas,Abilene,Male,20,phd,10,100
+495,true,false,false,Ohio,Dayton,Male,24,phd,6,78
+496,true,false,true,California,Petaluma,Female,30,phd,6,82
+497,false,false,false,Michigan,Saginaw,Female,30,high_school,9,51
+498,true,false,false,District of Columbia,Washington,Female,21,bachelors,10,99
+499,false,true,true,Washington,Tacoma,Female,24,phd,5,87
+500,true,true,true,Illinois,Champaign,Female,27,masters,2,71
+501,false,false,false,District of Columbia,Washington,Male,22,high_school,10,98
+502,false,true,true,New York,New York City,Male,29,masters,0,44
+503,true,true,false,Florida,Tampa,Male,28,high_school,2,54
+504,false,false,true,Louisiana,New Orleans,Female,18,high_school,10,100
+505,false,true,true,Texas,Corpus Christi,Female,27,high_school,1,73
+506,true,true,false,Michigan,Detroit,Female,21,bachelors,0,49
+507,false,true,true,South Carolina,Charleston,Female,29,masters,7,79
+508,false,false,true,Illinois,Springfield,Female,20,bachelors,10,52
+509,false,true,true,Virginia,Lynchburg,Female,21,masters,7,83
+510,true,false,true,District of Columbia,Washington,Male,30,bachelors,0,78
+511,false,false,true,Pennsylvania,Philadelphia,Female,23,high_school,5,58
+512,false,false,false,Nevada,Carson City,Male,19,bachelors,3,47
+513,true,true,true,Virginia,Ashburn,Male,25,masters,9,95
+514,true,true,true,California,San Diego,Male,22,high_school,2,96
+515,false,true,false,Missouri,Kansas City,Male,30,masters,2,54
+516,false,false,false,Connecticut,New Haven,Female,26,phd,0,43
+517,false,true,false,Nevada,Las Vegas,Female,30,phd,3,78
+518,false,true,false,Florida,Largo,Female,28,high_school,9,62
+519,true,false,false,North Dakota,Bismarck,Male,24,masters,4,69
+520,true,true,true,New Jersey,Newark,Female,22,phd,10,89
+521,true,true,true,California,Santa Monica,Female,30,masters,9,59
+522,true,true,false,West Virginia,Huntington,Male,21,phd,2,87
+523,true,false,false,Texas,El Paso,Male,26,high_school,9,59
+524,true,false,false,Pennsylvania,Reading,Female,23,bachelors,2,41
+525,false,false,true,Kansas,Wichita,Female,20,high_school,9,93
+526,false,true,false,District of Columbia,Washington,Female,20,high_school,7,75
+527,true,true,true,Ohio,Cincinnati,Female,24,bachelors,2,91
+528,true,false,false,New York,New York City,Female,29,high_school,1,46
+529,false,true,true,Texas,Denton,Male,22,bachelors,8,79
+530,false,true,true,Indiana,Indianapolis,Female,21,masters,8,100
+531,true,true,false,Michigan,Lansing,Male,24,bachelors,9,83
+532,true,true,true,Pennsylvania,Valley Forge,Female,30,high_school,3,69
+533,false,false,true,Florida,Sarasota,Female,19,high_school,3,53
+534,true,true,true,Pennsylvania,Pittsburgh,Male,30,masters,8,82
+535,false,true,false,Florida,Clearwater,Female,30,masters,2,48
+536,true,true,true,Arizona,Phoenix,Male,27,masters,8,56
+537,false,false,true,Alabama,Huntsville,Male,20,masters,1,43
+538,true,false,false,Illinois,Champaign,Male,27,bachelors,2,51
+539,false,false,true,Washington,Seattle,Female,27,phd,6,55
+540,false,false,true,Georgia,Atlanta,Male,26,high_school,5,72
+541,false,true,false,Tennessee,Nashville,Male,29,masters,6,48
+542,false,false,true,California,Sacramento,Female,23,bachelors,9,96
+543,true,true,false,Kentucky,Louisville,Female,19,masters,1,93
+544,false,false,false,Texas,Dallas,Female,30,bachelors,6,64
+545,true,true,false,Missouri,Jefferson City,Female,24,high_school,1,61
+546,true,true,false,Connecticut,Waterbury,Male,24,phd,2,77
+547,false,true,true,California,San Francisco,Male,26,high_school,5,88
+548,true,true,true,West Virginia,Huntington,Male,22,masters,4,91
+549,true,false,true,Rhode Island,Providence,Female,21,masters,4,92
+550,true,true,true,Indiana,Indianapolis,Female,20,high_school,5,75
+551,false,false,true,Indiana,Indianapolis,Female,19,bachelors,2,82
+552,false,false,true,North Carolina,Winston Salem,Female,21,high_school,4,73
+553,true,false,false,West Virginia,Charleston,Female,25,phd,0,59
+554,false,false,true,Georgia,Decatur,Female,24,bachelors,7,57
+555,true,false,false,Georgia,Savannah,Female,28,phd,6,63
+556,false,false,true,Iowa,Iowa City,Female,22,masters,5,53
+557,false,true,true,California,San Francisco,Female,25,bachelors,8,89
+558,false,false,false,Indiana,Evansville,Female,30,phd,10,79
+559,true,false,false,New York,New York City,Male,25,bachelors,2,41
+560,true,true,true,New Mexico,Albuquerque,Male,29,phd,6,70
+561,false,false,true,West Virginia,Charleston,Female,24,phd,7,93
+562,false,true,false,New York,Syracuse,Female,27,high_school,5,45
+563,false,false,false,Illinois,Chicago,Male,30,high_school,4,96
+564,false,false,false,Massachusetts,Lynn,Female,25,high_school,2,47
+565,true,true,true,Texas,Laredo,Female,21,phd,6,91
+566,false,false,true,Texas,El Paso,Male,24,masters,9,46
+567,true,true,false,Texas,Texarkana,Female,19,phd,4,79
+568,true,false,true,West Virginia,Huntington,Female,27,masters,1,70
+569,false,false,false,Texas,Waco,Female,30,phd,7,100
+570,false,false,true,Mississippi,Columbus,Male,27,masters,8,45
+571,true,false,true,Virginia,Fairfax,Male,20,phd,10,87
+572,true,true,false,Texas,Killeen,Female,22,bachelors,10,90
+573,false,false,true,Florida,Miami,Male,27,bachelors,6,73
+574,false,false,true,Florida,Gainesville,Female,21,phd,5,98
+575,false,false,true,Wisconsin,Milwaukee,Female,18,phd,10,68
+576,true,false,true,Minnesota,Duluth,Female,24,high_school,5,98
+577,false,true,false,Louisiana,Metairie,Male,30,bachelors,9,84
+578,false,true,true,Alaska,Anchorage,Male,28,masters,5,67
+579,false,true,true,Texas,Houston,Female,22,high_school,9,65
+580,false,false,false,Texas,Abilene,Male,24,high_school,10,67
+581,true,true,false,Pennsylvania,Philadelphia,Female,25,bachelors,6,53
+582,false,false,true,Pennsylvania,Philadelphia,Male,25,masters,7,67
+583,true,false,false,Florida,Winter Haven,Male,26,phd,4,99
+584,true,true,false,Colorado,Arvada,Female,29,masters,0,89
+585,true,false,false,Maryland,Bethesda,Female,21,high_school,3,83
+586,true,false,false,District of Columbia,Washington,Female,20,phd,4,68
+587,false,true,false,Michigan,Dearborn,Female,18,phd,7,85
+588,true,true,true,Nevada,Las Vegas,Female,24,bachelors,9,97
+589,false,true,true,California,Los Angeles,Male,30,masters,5,93
+590,false,false,true,District of Columbia,Washington,Male,25,phd,7,74
+591,true,true,false,Florida,Jacksonville,Female,23,masters,8,63
+592,false,false,false,Texas,Houston,Female,23,high_school,8,80
+593,true,true,false,Tennessee,Memphis,Male,29,masters,10,53
+594,true,true,false,Louisiana,Baton Rouge,Male,26,high_school,3,96
+595,false,false,false,Virginia,Virginia Beach,Female,26,masters,6,85
+596,false,false,false,Illinois,Chicago,Female,26,bachelors,1,49
+597,false,true,true,Pennsylvania,Pittsburgh,Male,30,bachelors,4,46
+598,true,true,true,Texas,Houston,Male,29,masters,6,93
+599,true,true,false,Colorado,Denver,Male,23,bachelors,5,98
+600,false,true,true,Louisiana,Shreveport,Male,22,high_school,4,56
+601,true,true,false,Texas,Dallas,Male,18,masters,0,86
+602,true,true,true,Oregon,Portland,Female,18,bachelors,2,77
+603,false,false,true,Florida,Miami,Female,23,bachelors,5,63
+604,false,false,true,Texas,Lubbock,Female,25,masters,3,69
+605,true,true,true,Georgia,Duluth,Female,20,bachelors,1,66
+606,false,true,false,Florida,West Palm Beach,Female,26,phd,4,60
+607,false,false,true,Iowa,Des Moines,Male,20,masters,3,66
+608,true,true,true,Texas,Houston,Male,22,bachelors,9,49
+609,false,false,false,Pennsylvania,Pittsburgh,Female,21,masters,5,49
+610,true,false,true,New York,Buffalo,Male,26,high_school,8,95
+611,true,true,true,Florida,Miami,Male,22,high_school,4,68
+612,true,true,false,Illinois,Springfield,Female,19,bachelors,2,48
+613,true,true,true,California,Long Beach,Male,25,phd,2,90
+614,false,true,true,Iowa,Des Moines,Female,26,masters,7,98
+615,false,false,true,Colorado,Pueblo,Male,26,phd,3,49
+616,true,false,false,Florida,Fort Myers,Female,29,phd,7,45
+617,true,true,true,Wisconsin,Green Bay,Female,21,masters,5,47
+618,false,false,false,Florida,Bradenton,Female,25,high_school,3,82
+619,false,true,false,District of Columbia,Washington,Male,28,phd,4,88
+620,false,false,false,Illinois,Chicago,Male,18,bachelors,7,100
+621,false,false,false,Michigan,Detroit,Female,27,bachelors,4,71
+622,true,true,false,Nevada,Las Vegas,Female,27,phd,8,49
+623,false,false,true,Arizona,Scottsdale,Male,22,high_school,0,100
+624,false,true,false,California,Los Angeles,Female,26,high_school,0,69
+625,true,true,false,New York,Albany,Male,21,high_school,2,42
+626,true,true,false,California,Whittier,Female,20,high_school,10,76
+627,false,false,true,Florida,Tampa,Male,29,bachelors,0,54
+628,true,true,false,California,Alhambra,Male,25,phd,7,45
+629,true,false,true,Florida,Tallahassee,Male,25,phd,6,55
+630,true,false,false,Wisconsin,Madison,Male,18,phd,7,92
+631,true,true,true,California,Pasadena,Male,20,high_school,9,49
+632,false,true,false,Pennsylvania,Erie,Female,19,high_school,3,91
+633,false,false,true,North Carolina,Greensboro,Male,27,high_school,6,88
+634,false,false,false,California,Van Nuys,Female,29,high_school,2,86
+635,false,false,false,Texas,Houston,Male,26,phd,0,51
+636,true,false,true,Pennsylvania,Levittown,Male,21,bachelors,2,45
+637,true,false,true,Texas,Amarillo,Female,22,bachelors,8,80
+638,false,false,false,Minnesota,Saint Paul,Male,21,high_school,2,68
+639,false,true,false,California,Los Angeles,Female,25,phd,4,43
+640,false,true,false,Texas,Round Rock,Male,24,high_school,0,81
+641,true,false,false,Missouri,Saint Louis,Male,20,phd,1,54
+642,true,false,true,Louisiana,New Orleans,Female,27,phd,10,56
+643,false,true,false,Virginia,Alexandria,Female,18,phd,9,46
+644,false,false,true,Virginia,Arlington,Male,30,phd,2,77
+645,true,true,false,Nevada,Henderson,Male,30,masters,1,63
+646,true,true,true,Tennessee,Nashville,Male,20,phd,3,43
+647,true,false,false,Kentucky,Louisville,Male,18,high_school,3,96
+648,false,true,false,Virginia,Richmond,Female,22,bachelors,6,62
+649,true,true,true,Massachusetts,Boston,Male,28,bachelors,2,50
+650,true,true,false,Kentucky,Lexington,Female,27,masters,7,55
+651,false,true,false,Missouri,Saint Louis,Female,24,high_school,0,62
+652,true,true,false,Iowa,Cedar Rapids,Male,27,bachelors,3,71
+653,true,false,true,Nevada,Las Vegas,Female,28,phd,8,55
+654,true,true,false,Connecticut,Hartford,Male,20,bachelors,1,46
+655,false,false,true,New York,Brooklyn,Female,30,bachelors,4,52
+656,true,true,true,New York,Albany,Male,24,high_school,5,74
+657,true,false,false,New Jersey,Newark,Female,28,high_school,1,96
+658,false,true,true,Nevada,Las Vegas,Male,18,phd,10,95
+659,true,true,true,Idaho,Boise,Female,28,phd,8,86
+660,true,true,false,Iowa,Sioux City,Female,19,phd,7,90
+661,true,true,false,Ohio,Dayton,Male,22,high_school,10,93
+662,true,true,false,North Carolina,Raleigh,Female,28,masters,1,85
+663,true,true,true,Indiana,South Bend,Female,27,bachelors,4,41
+664,false,false,false,Alabama,Montgomery,Female,19,bachelors,2,72
+665,true,true,false,Texas,Humble,Female,26,phd,6,76
+666,true,true,false,Pennsylvania,Harrisburg,Male,26,masters,6,80
+667,true,true,true,West Virginia,Charleston,Female,20,phd,4,80
+668,true,false,false,Colorado,Denver,Female,20,phd,4,65
+669,false,false,false,Connecticut,New Haven,Male,26,bachelors,6,61
+670,false,true,true,Alabama,Mobile,Female,18,masters,4,85
+671,false,false,false,Florida,Lake Worth,Female,21,bachelors,10,64
+672,true,false,false,Texas,El Paso,Male,23,high_school,6,47
+673,false,true,false,Texas,Houston,Female,19,phd,0,68
+674,false,true,true,Florida,Miami,Female,23,bachelors,8,78
+675,false,false,true,Kansas,Shawnee Mission,Male,24,masters,2,66
+676,false,true,true,New York,Bronx,Male,20,phd,4,63
+677,true,true,false,Ohio,Akron,Female,28,high_school,5,55
+678,false,true,true,District of Columbia,Washington,Male,26,masters,7,100
+679,false,true,true,Illinois,Peoria,Female,18,masters,7,95
+680,false,true,true,Florida,Jacksonville,Male,28,high_school,8,87
+681,true,false,false,North Carolina,Charlotte,Female,19,bachelors,6,83
+682,true,false,true,Georgia,Savannah,Male,24,masters,7,43
+683,true,true,true,Texas,El Paso,Female,29,bachelors,0,41
+684,true,false,true,Maryland,Hyattsville,Male,20,masters,10,60
+685,false,false,true,Texas,Dallas,Male,23,masters,5,98
+686,true,true,false,California,Los Angeles,Female,19,high_school,5,80
+687,false,false,true,Oklahoma,Tulsa,Female,24,high_school,5,52
+688,true,false,true,Texas,Temple,Male,20,phd,9,55
+689,false,false,false,Minnesota,Duluth,Female,28,phd,5,89
+690,false,true,false,Alabama,Huntsville,Male,25,masters,6,44
+691,true,true,false,California,San Jose,Male,23,masters,10,91
+692,true,false,false,Iowa,Des Moines,Female,20,bachelors,5,89
+693,false,true,true,Maryland,Rockville,Male,30,bachelors,1,87
+694,true,false,false,South Dakota,Sioux Falls,Male,28,masters,7,44
+695,true,false,true,Michigan,Detroit,Male,27,bachelors,7,40
+696,false,true,true,North Carolina,Winston Salem,Female,27,phd,5,71
+697,false,true,true,Arizona,Phoenix,Male,23,phd,9,56
+698,true,false,true,Colorado,Englewood,Male,26,high_school,7,60
+699,false,true,false,Washington,Tacoma,Male,22,bachelors,5,43
+700,false,false,true,Minnesota,Duluth,Male,22,high_school,0,92
+701,false,true,true,Colorado,Colorado Springs,Male,30,bachelors,1,84
+702,false,false,true,Massachusetts,Boston,Male,20,masters,6,49
+703,false,true,false,New Jersey,Newark,Female,27,masters,4,94
+704,false,false,true,Michigan,Grand Rapids,Female,27,high_school,10,83
+705,true,false,false,New York,Rochester,Male,22,bachelors,10,42
+706,false,true,true,Tennessee,Memphis,Female,29,phd,8,42
+707,true,false,true,Florida,Miami,Female,21,phd,4,72
+708,false,true,false,Texas,Odessa,Female,22,high_school,2,96
+709,true,true,false,South Carolina,Columbia,Female,18,bachelors,3,93
+710,false,true,true,Florida,Miami,Female,21,masters,8,58
+711,false,true,true,Indiana,Evansville,Female,27,phd,1,49
+712,true,false,false,New Jersey,Paterson,Male,19,phd,3,81
+713,true,true,true,Iowa,Des Moines,Female,21,masters,2,100
+714,true,true,false,Texas,El Paso,Male,29,phd,8,58
+715,true,true,false,Kansas,Topeka,Male,28,high_school,1,91
+716,true,false,true,New Mexico,Albuquerque,Female,23,phd,7,90
+717,false,false,true,California,Santa Cruz,Male,22,masters,8,65
+718,false,false,true,Nevada,Las Vegas,Male,25,bachelors,9,61
+719,true,true,false,Kentucky,Lexington,Female,29,phd,2,71
+720,false,true,false,Missouri,Saint Louis,Female,20,phd,9,63
+721,true,false,true,North Carolina,Charlotte,Female,29,masters,1,65
+722,false,false,false,Maryland,Baltimore,Male,20,high_school,8,52
+723,false,true,true,Florida,Fort Lauderdale,Male,19,masters,6,85
+724,true,false,false,New Jersey,Jersey City,Male,30,high_school,7,71
+725,true,true,true,California,Chula Vista,Male,25,high_school,3,73
+726,true,false,false,Arizona,Gilbert,Female,23,masters,3,79
+727,false,true,false,Louisiana,New Orleans,Female,29,high_school,7,70
+728,false,true,true,South Dakota,Sioux Falls,Female,28,bachelors,4,56
+729,false,false,false,Pennsylvania,Philadelphia,Female,29,high_school,4,52
+730,false,false,true,Arizona,Phoenix,Female,23,high_school,5,82
+731,true,false,false,California,Anaheim,Female,19,phd,10,92
+732,false,true,true,South Carolina,Charleston,Female,23,bachelors,7,68
+733,false,false,true,Pennsylvania,Philadelphia,Female,26,masters,0,46
+734,false,false,false,Oregon,Portland,Male,24,high_school,9,75
+735,false,true,false,District of Columbia,Washington,Female,28,high_school,1,91
+736,false,false,true,Oregon,Portland,Male,26,masters,5,67
+737,true,false,true,Florida,Orlando,Female,21,bachelors,8,49
+738,true,true,true,Texas,Houston,Female,26,masters,0,43
+739,false,true,true,West Virginia,Morgantown,Male,20,high_school,4,77
+740,false,true,true,Florida,Miami,Female,22,bachelors,4,48
+741,false,true,false,Pennsylvania,Philadelphia,Female,29,bachelors,9,48
+742,true,true,true,Texas,Corpus Christi,Female,22,phd,9,51
+743,true,false,true,Oklahoma,Oklahoma City,Male,21,high_school,6,60
+744,true,false,false,Colorado,Denver,Female,29,phd,9,78
+745,false,false,true,Wisconsin,Madison,Female,20,high_school,4,69
+746,false,true,true,Georgia,Lawrenceville,Female,28,bachelors,10,56
+747,true,false,false,Texas,El Paso,Female,22,bachelors,1,89
+748,true,true,true,New York,Buffalo,Male,19,high_school,3,79
+749,true,false,true,Colorado,Colorado Springs,Male,26,high_school,5,66
+750,true,true,true,California,Orange,Male,27,phd,9,47
+751,true,true,true,California,Hayward,Female,29,bachelors,1,41
+752,false,false,true,California,Long Beach,Female,26,masters,10,40
+753,false,true,true,North Carolina,Wilmington,Male,21,phd,3,43
+754,false,true,true,California,Stockton,Female,24,masters,4,54
+755,true,false,false,Florida,Gainesville,Female,19,phd,6,45
+756,true,true,false,Texas,Austin,Female,23,high_school,7,88
+757,true,true,false,New York,New York City,Male,27,bachelors,8,41
+758,false,false,true,Missouri,Kansas City,Male,19,bachelors,4,71
+759,false,true,false,New Hampshire,Manchester,Male,30,bachelors,7,76
+760,true,true,false,Florida,Sarasota,Female,25,high_school,0,64
+761,true,false,false,Ohio,Youngstown,Female,18,masters,9,73
+762,false,true,false,Florida,Delray Beach,Male,25,masters,0,61
+763,false,true,false,Wisconsin,Madison,Male,23,masters,8,52
+764,false,false,true,Texas,Fort Worth,Female,20,masters,10,57
+765,true,false,true,Florida,Fort Pierce,Female,26,masters,3,70
+766,false,false,true,Ohio,Toledo,Male,19,masters,10,87
+767,true,true,true,Maryland,Laurel,Male,19,bachelors,10,66
+768,true,true,false,Illinois,Springfield,Female,19,bachelors,6,45
+769,false,true,false,California,Irvine,Female,28,bachelors,2,85
+770,false,false,false,Minnesota,Saint Paul,Female,26,bachelors,7,81
+771,true,true,true,North Carolina,Durham,Male,23,high_school,4,51
+772,true,true,true,California,Glendale,Male,20,high_school,3,60
+773,false,true,true,Utah,Salt Lake City,Female,23,bachelors,7,55
+774,false,false,true,Utah,Salt Lake City,Male,22,high_school,2,72
+775,true,true,true,New York,New Hyde Park,Female,19,phd,3,51
+776,true,false,false,Louisiana,Shreveport,Female,21,bachelors,8,44
+777,true,false,true,Virginia,Roanoke,Male,21,bachelors,9,79
+778,true,false,true,Missouri,Saint Louis,Female,18,bachelors,10,55
+779,false,false,true,Texas,Garland,Male,26,bachelors,8,90
+780,false,true,false,Ohio,Canton,Male,28,masters,7,66
+781,false,false,true,Wyoming,Cheyenne,Female,28,bachelors,2,69
+782,true,true,true,Nebraska,Omaha,Male,26,masters,10,49
+783,true,false,false,California,Whittier,Female,23,phd,3,97
+784,false,true,true,Ohio,Lima,Male,18,masters,7,71
+785,true,false,true,Georgia,Atlanta,Male,19,masters,1,79
+786,false,true,true,Vermont,Montpelier,Female,23,high_school,1,48
+787,true,true,true,Colorado,Englewood,Male,21,high_school,0,73
+788,true,true,false,North Carolina,Raleigh,Male,29,bachelors,3,93
+789,true,false,true,California,Pasadena,Male,20,high_school,1,98
+790,false,true,false,California,Long Beach,Female,18,high_school,5,64
+791,false,true,true,Kentucky,Louisville,Female,19,high_school,3,80
+792,true,false,true,Florida,Hialeah,Female,20,masters,2,92
+793,true,false,false,Florida,Fort Lauderdale,Female,26,bachelors,8,51
+794,true,false,false,Texas,Amarillo,Male,26,phd,8,53
+795,false,true,true,Texas,Amarillo,Female,29,high_school,8,87
+796,true,false,true,Florida,Miami,Male,25,high_school,10,47
+797,true,false,false,Georgia,Atlanta,Male,20,masters,6,85
+798,false,false,true,Texas,Lubbock,Male,25,high_school,10,40
+799,true,true,false,Connecticut,Stamford,Male,27,masters,2,44
+800,false,true,true,Indiana,Fort Wayne,Female,26,masters,3,67
+801,false,true,true,Hawaii,Honolulu,Male,20,high_school,10,84
+802,false,true,false,Virginia,Reston,Female,21,bachelors,0,41
+803,false,false,false,New York,New York City,Female,21,high_school,6,73
+804,false,false,false,West Virginia,Huntington,Male,24,phd,4,64
+805,true,false,true,Texas,Irving,Male,22,masters,1,92
+806,true,true,false,California,Los Angeles,Male,22,masters,9,78
+807,false,false,true,Kansas,Wichita,Female,25,phd,5,64
+808,false,false,true,Arizona,Mesa,Female,24,high_school,1,66
+809,true,true,false,Tennessee,Memphis,Male,18,phd,8,46
+810,false,true,false,North Carolina,Charlotte,Female,24,masters,5,49
+811,false,false,false,Kentucky,Louisville,Female,20,masters,4,77
+812,true,true,false,Iowa,Des Moines,Male,30,masters,1,53
+813,false,true,false,Texas,Dallas,Female,27,high_school,7,96
+814,true,true,true,Indiana,Terre Haute,Female,24,bachelors,5,67
+815,true,true,true,Pennsylvania,Erie,Female,21,phd,10,54
+816,true,true,true,Nevada,Las Vegas,Female,25,masters,0,99
+817,true,true,false,Iowa,Des Moines,Female,26,phd,3,58
+818,false,true,false,Tennessee,Memphis,Female,19,masters,1,64
+819,false,true,true,North Carolina,Charlotte,Male,27,masters,2,56
+820,false,false,true,Indiana,Crawfordsville,Female,20,high_school,4,89
+821,false,true,false,New York,Rochester,Male,24,masters,8,99
+822,true,false,true,Georgia,Atlanta,Female,23,phd,6,46
+823,true,false,true,Kansas,Topeka,Male,29,high_school,7,66
+824,false,false,true,Florida,Panama City,Female,23,phd,6,84
+825,false,false,true,Indiana,Evansville,Female,24,phd,8,94
+826,true,false,false,New Jersey,Newark,Male,29,high_school,4,93
+827,false,true,false,California,Fresno,Male,29,masters,9,99
+828,false,true,true,Ohio,Cleveland,Male,29,masters,0,53
+829,true,false,false,California,Richmond,Male,30,masters,7,67
+830,false,true,false,Florida,Tampa,Female,30,bachelors,5,78
+831,false,false,true,Colorado,Arvada,Female,30,masters,5,83
+832,true,false,false,Connecticut,Norwalk,Female,22,phd,7,58
+833,true,true,true,Florida,Punta Gorda,Male,18,masters,2,40
+834,true,false,true,Kansas,Wichita,Male,21,masters,3,95
+835,false,true,true,New York,New York City,Male,24,bachelors,6,51
+836,true,false,true,Tennessee,Johnson City,Female,25,high_school,7,91
+837,true,true,true,Minnesota,Saint Cloud,Female,18,phd,4,43
+838,true,true,false,Pennsylvania,Reading,Male,19,high_school,10,93
+839,false,true,false,California,Sacramento,Male,25,high_school,5,53
+840,true,false,false,Ohio,Cincinnati,Female,23,bachelors,4,92
+841,true,true,true,Iowa,Des Moines,Male,18,phd,10,87
+842,false,true,false,Massachusetts,Springfield,Female,27,high_school,2,64
+843,false,false,true,Indiana,Evansville,Male,29,masters,7,57
+844,true,true,false,Florida,Jacksonville,Male,18,high_school,6,57
+845,true,true,false,New York,Albany,Male,29,high_school,5,60
+846,true,true,false,California,Fresno,Male,22,bachelors,10,92
+847,true,false,false,Nebraska,Lincoln,Female,23,high_school,9,86
+848,true,true,false,Florida,Miami,Female,22,bachelors,4,94
+849,false,false,false,Oregon,Portland,Male,24,bachelors,3,69
+850,true,false,false,Ohio,Dayton,Female,21,phd,5,45
+851,false,false,true,Oregon,Portland,Male,27,masters,8,79
+852,true,true,true,Iowa,Des Moines,Male,25,bachelors,0,41
+853,false,false,true,Louisiana,Shreveport,Female,18,masters,9,96
+854,true,false,false,Oklahoma,Oklahoma City,Male,23,masters,5,78
+855,false,false,true,California,Oxnard,Female,21,masters,7,70
+856,false,false,false,Washington,Seattle,Female,26,high_school,2,82
+857,false,true,true,Ohio,Cincinnati,Female,28,high_school,4,100
+858,true,true,false,Georgia,Valdosta,Female,27,bachelors,5,81
+859,true,true,true,District of Columbia,Washington,Female,20,bachelors,6,58
+860,true,false,false,North Carolina,Asheville,Female,30,phd,4,92
+861,false,false,false,California,Los Angeles,Female,27,masters,2,89
+862,false,false,true,New York,Brooklyn,Female,29,phd,10,88
+863,true,true,true,Florida,Saint Petersburg,Male,19,masters,1,78
+864,true,true,false,Colorado,Denver,Male,21,masters,7,73
+865,false,false,false,Pennsylvania,Pittsburgh,Male,26,bachelors,2,42
+866,true,false,false,Virginia,Alexandria,Male,28,masters,10,86
+867,true,false,false,South Carolina,Charleston,Female,30,masters,1,83
+868,false,true,false,California,Visalia,Male,26,high_school,9,65
+869,true,false,true,Hawaii,Honolulu,Male,18,high_school,8,44
+870,false,false,true,New York,New York City,Female,19,phd,0,40
+871,false,true,false,Texas,Dallas,Female,19,masters,1,59
+872,true,true,true,Kentucky,Louisville,Male,27,bachelors,1,79
+873,true,false,false,California,San Francisco,Female,22,phd,9,71
+874,false,true,false,District of Columbia,Washington,Female,20,phd,3,55
+875,true,true,true,Georgia,Augusta,Female,19,bachelors,3,98
+876,false,true,false,Missouri,Saint Louis,Female,26,high_school,4,62
+877,false,false,true,Georgia,Atlanta,Female,22,high_school,1,100
+878,true,false,true,District of Columbia,Washington,Female,21,phd,4,99
+879,false,true,true,New York,Staten Island,Male,25,phd,0,65
+880,true,true,true,Texas,San Angelo,Female,30,high_school,6,75
+881,false,false,true,Colorado,Pueblo,Male,26,high_school,7,74
+882,true,false,true,Pennsylvania,Erie,Male,23,masters,10,87
+883,false,false,false,Utah,Salt Lake City,Female,19,high_school,7,74
+884,false,false,true,Washington,Seattle,Male,20,masters,7,82
+885,true,true,true,Florida,Port Saint Lucie,Male,19,high_school,1,83
+886,true,true,true,Georgia,Atlanta,Female,26,high_school,8,84
+887,false,false,false,Oklahoma,Tulsa,Female,30,masters,8,95
+888,true,false,false,California,Los Angeles,Male,21,bachelors,5,40
+889,true,true,true,Washington,Spokane,Male,29,masters,0,54
+890,true,true,false,Alabama,Birmingham,Female,24,high_school,4,63
+891,true,false,false,New York,New York City,Female,19,phd,4,46
+892,true,true,true,Ohio,Youngstown,Female,24,bachelors,4,69
+893,false,false,false,Colorado,Denver,Female,25,high_school,10,96
+894,true,false,true,California,San Diego,Female,22,masters,5,80
+895,false,false,false,Florida,Zephyrhills,Male,29,masters,6,83
+896,false,false,true,Michigan,Detroit,Female,25,phd,0,49
+897,true,true,false,Ohio,Cincinnati,Male,30,high_school,10,92
+898,false,true,false,Connecticut,Waterbury,Male,23,masters,9,74
+899,false,false,true,Louisiana,Shreveport,Female,24,bachelors,4,86
+900,true,false,false,California,San Jose,Female,20,bachelors,0,59
+901,false,false,false,Washington,Tacoma,Female,26,phd,6,96
+902,true,true,true,Nevada,Carson City,Male,24,phd,6,96
+903,true,false,true,Georgia,Duluth,Female,27,bachelors,8,49
+904,true,false,true,Illinois,Springfield,Male,21,high_school,7,83
+905,true,false,false,Ohio,Dayton,Male,23,masters,0,93
+906,true,true,false,California,Hayward,Male,20,bachelors,1,88
+907,false,true,false,District of Columbia,Washington,Female,19,bachelors,9,67
+908,false,false,true,New York,Elmira,Female,22,phd,10,52
+909,true,true,true,Ohio,Cleveland,Male,19,bachelors,6,73
+910,false,false,false,Maryland,Baltimore,Female,23,high_school,10,80
+911,true,true,false,Virginia,Charlottesville,Male,22,masters,0,50
+912,true,false,true,Texas,El Paso,Female,27,high_school,9,62
+913,false,true,false,Louisiana,Shreveport,Male,22,high_school,7,69
+914,false,true,true,Alaska,Fairbanks,Male,30,phd,10,82
+915,false,true,false,District of Columbia,Washington,Female,22,phd,0,84
+916,true,true,false,Louisiana,Alexandria,Male,19,masters,9,50
+917,true,false,true,Virginia,Richmond,Male,22,masters,7,55
+918,false,false,false,Texas,Beaumont,Female,22,high_school,3,76
+919,false,false,false,Pennsylvania,Bethlehem,Male,24,masters,6,70
+920,false,true,false,Texas,San Antonio,Female,20,bachelors,0,83
+921,true,false,false,California,Sacramento,Female,25,masters,1,97
+922,true,false,false,Tennessee,Johnson City,Male,30,high_school,10,88
+923,false,false,true,California,Van Nuys,Male,30,masters,6,75
+924,false,true,true,Pennsylvania,Philadelphia,Female,25,high_school,10,59
+925,true,true,true,Pennsylvania,Lancaster,Female,25,phd,10,91
+926,true,true,false,Georgia,Savannah,Male,20,phd,7,82
+927,true,true,true,New York,Brooklyn,Male,25,high_school,5,58
+928,true,true,true,Florida,Homestead,Female,26,bachelors,2,64
+929,false,false,false,Texas,College Station,Female,18,high_school,10,65
+930,false,false,false,Texas,Waco,Male,23,bachelors,7,89
+931,true,false,false,Oklahoma,Oklahoma City,Female,23,bachelors,10,99
+932,false,true,false,California,Anaheim,Female,26,bachelors,0,78
+933,true,false,false,Alabama,Montgomery,Male,18,high_school,9,91
+934,true,true,false,Texas,El Paso,Male,19,masters,9,49
+935,true,false,false,New York,Rochester,Female,24,bachelors,6,98
+936,true,true,true,Arizona,Tucson,Male,24,phd,4,76
+937,true,false,false,Maryland,Ridgely,Male,19,phd,3,87
+938,false,false,false,Kansas,Topeka,Male,30,bachelors,0,77
+939,false,false,true,New York,Buffalo,Female,25,high_school,6,40
+940,true,true,true,California,Stockton,Male,21,masters,10,94
+941,true,false,false,Washington,Tacoma,Male,24,phd,4,55
+942,false,true,false,South Carolina,Columbia,Male,25,bachelors,7,90
+943,true,false,false,Florida,Clearwater,Female,30,masters,10,89
+944,true,false,true,Virginia,Richmond,Male,21,masters,9,87
+945,true,true,false,California,San Diego,Male,28,high_school,1,95
+946,false,true,true,Nebraska,Omaha,Female,20,bachelors,3,47
+947,true,false,true,Michigan,Lansing,Female,18,masters,4,45
+948,true,true,true,Louisiana,Shreveport,Female,27,high_school,7,69
+949,false,true,true,Virginia,Richmond,Male,28,bachelors,5,61
+950,false,false,true,Ohio,Toledo,Female,21,phd,10,74
+951,true,false,true,Colorado,Boulder,Male,27,bachelors,0,58
+952,true,true,false,Kentucky,Louisville,Female,20,bachelors,0,58
+953,false,true,true,Michigan,Lansing,Female,21,high_school,6,88
+954,false,true,true,California,San Jose,Female,26,masters,0,45
+955,true,true,false,Tennessee,Nashville,Male,29,bachelors,6,48
+956,false,false,true,New York,New York City,Female,27,masters,7,99
+957,true,true,false,Florida,Miami,Male,22,bachelors,6,75
+958,false,true,true,North Carolina,Wilmington,Female,20,high_school,10,75
+959,false,false,true,Ohio,Cincinnati,Female,27,bachelors,4,95
+960,false,false,false,Georgia,Duluth,Female,21,bachelors,8,61
+961,true,true,true,Washington,Seattle,Female,28,phd,0,45
+962,false,false,true,Alabama,Tuscaloosa,Female,18,bachelors,7,98
+963,true,false,true,California,Torrance,Female,28,high_school,10,66
+964,true,false,true,Nevada,Reno,Female,18,high_school,10,76
+965,true,false,true,Tennessee,Nashville,Male,19,phd,9,63
+966,true,false,true,Pennsylvania,Philadelphia,Male,27,high_school,5,46
+967,true,true,false,California,Irvine,Female,21,phd,10,88
+968,false,false,true,New York,Albany,Female,24,bachelors,8,91
+969,true,false,true,North Carolina,Charlotte,Male,22,high_school,4,81
+970,false,false,false,Massachusetts,Boston,Female,18,high_school,0,54
+971,true,false,false,Virginia,Herndon,Male,19,masters,7,50
+972,true,true,true,District of Columbia,Washington,Female,26,high_school,1,67
+973,true,true,true,District of Columbia,Washington,Female,20,high_school,8,65
+974,false,false,true,Massachusetts,Springfield,Male,29,high_school,6,73
+975,false,false,true,Kentucky,London,Female,29,phd,10,44
+976,true,false,true,Texas,El Paso,Male,22,bachelors,8,55
+977,false,false,false,Colorado,Arvada,Male,26,high_school,9,72
+978,false,true,true,Texas,Irving,Male,30,high_school,9,93
+979,true,true,true,Utah,Ogden,Male,28,phd,5,85
+980,true,false,true,Arizona,Tucson,Female,18,phd,10,65
+981,true,true,false,Kentucky,Louisville,Female,30,bachelors,1,76
+982,false,true,true,Florida,Ocala,Female,23,high_school,10,79
+983,false,true,false,Indiana,Fort Wayne,Male,26,masters,9,53
+984,true,true,true,New York,Brooklyn,Male,21,bachelors,9,52
+985,false,false,true,Louisiana,Lake Charles,Female,25,phd,6,86
+986,true,true,false,Idaho,Boise,Female,26,high_school,7,45
+987,false,true,false,Nebraska,Omaha,Male,18,masters,7,97
+988,true,false,true,Pennsylvania,Pittsburgh,Female,18,high_school,6,67
+989,false,true,true,Iowa,Sioux City,Male,21,masters,6,90
+990,true,true,true,California,Oakland,Female,26,masters,0,56
+991,true,false,false,Arkansas,Fort Smith,Female,27,masters,2,52
+992,true,false,true,Texas,Fort Worth,Male,18,phd,3,79
+993,true,false,true,Texas,El Paso,Male,18,bachelors,8,91
+994,true,true,false,Indiana,Evansville,Female,26,bachelors,4,44
+995,true,true,true,California,Inglewood,Female,26,bachelors,1,100
+996,false,false,true,New Mexico,Santa Fe,Male,28,bachelors,2,45
+997,true,true,true,New York,Flushing,Male,27,high_school,5,95
+998,false,false,true,Alabama,Mobile,Female,18,masters,3,73
+999,false,false,false,Colorado,Boulder,Female,29,phd,3,95
+1000,false,false,false,Pennsylvania,Allentown,Male,22,masters,7,54
